@@ -3,8 +3,9 @@ Creative mind full of ideas, to realize them I'm currently learning from https:/
 
 - 👀 I’m interested in improving coding skills and fpv drones!
 - 🌱 I’m currently learning javascript and ruby
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (link to my website)
+- 💞️ I'll become a neovim ninja!
+- 📫 My discord: Phhh#0001
+  
 
 <!---
 Ph8042/Ph8042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

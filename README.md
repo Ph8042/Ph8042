@@ -1,5 +1,5 @@
 Full-stack engineer with a passion for development. 
-Creative mind full of ideas, to realize them I'm currently learning from https://www.theodinproject.com/
+I'm currently learning from https://www.theodinproject.com/
 
 - 👀 I’m interested in improving coding skills and fpv drones!
 - 🌱 I’m currently learning javascript and ruby

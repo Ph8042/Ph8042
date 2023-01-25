@@ -15,4 +15,4 @@ Links:
 [The Odin Project]
 
 [BIM]: https://en.wikipedia.org/wiki/Building_information_modeling
-[The Odin Project]: www.theodinproject.com
+[The Odin Project]: https://www.theodinproject.com
